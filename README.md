@@ -10,6 +10,8 @@ Functions includes:
   3. User input validation.
   4. Json file processing.
   5. String processing.
+  6. Date and Time processing.
+  7. Geocode processing.
   
  API url: https://open-meteo.com/en
  
